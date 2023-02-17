@@ -4,7 +4,7 @@
 
 Welcome to this repository! Here you can learn and practice Git and GitHub.
 
-欢迎来到这个仓库！在这里你可以学习和练习Git和GitHub。
+欢迎来到这个仓库！在这里你可以学习和练习 Git 和 GitHub 的使用。
 
 Feel free to explore and make changes to the code. You can also create branches, merge pull requests, collaborate with others, etc.
 
